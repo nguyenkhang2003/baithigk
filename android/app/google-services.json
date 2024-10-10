@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326230137775",
+    "project_id": "baithigiuaki-fd860",
+    "storage_bucket": "baithigiuaki-fd860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326230137775:android:6411c0b44812d3dcc9ad5a",
+        "android_client_info": {
+          "package_name": "com.baigk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow2TeIwS8nxQyJOqLDiKHGjaRa9hGdqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
